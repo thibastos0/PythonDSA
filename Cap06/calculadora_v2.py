@@ -1,6 +1,6 @@
 # Calculadora em Python 
 
-print("\n******************* Python Calculator *******************")
+print("\n******************* Python Calculator v1 *******************")
 
 def add(x, y):
 	return x + y
